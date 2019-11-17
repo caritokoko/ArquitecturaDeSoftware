@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>BPMN 2.0 Business Process View</title>
+<link href="../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA36.png" usemap="#EA36" border="0" />
+
+<MAP NAME="EA36">
+<area shape="rect" coords="926,608,1008,672" href="EA40.htm" target="_self">
+<area shape="rect" coords="106,574,216,634" href="EA69.htm" target="_self">
+<area shape="rect" coords="161,817,209,865" href="EA75.htm" target="_self">
+<area shape="rect" coords="300,807,382,871" href="EA70.htm" target="_self">
+<area shape="rect" coords="606,822,716,882" href="EA76.htm" target="_self">
+<area shape="rect" coords="395,576,505,636" href="EA67.htm" target="_self">
+<area shape="rect" coords="647,575,757,635" href="EA68.htm" target="_self">
+<area shape="rect" coords="646,428,756,488" href="EA61.htm" target="_self">
+<area shape="rect" coords="114,432,224,492" href="EA60.htm" target="_self">
+<area shape="rect" coords="284,429,394,489" href="EA62.htm" target="_self">
+<area shape="rect" coords="460,428,570,488" href="EA63.htm" target="_self">
+<area shape="rect" coords="160,280,270,340" href="EA57.htm" target="_self">
+<area shape="rect" coords="324,284,434,344" href="EA58.htm" target="_self">
+<area shape="rect" coords="495,294,544,342" href="EA56.htm" target="_self">
+<area shape="rect" coords="461,159,571,219" href="EA51.htm" target="_self">
+<area shape="rect" coords="461,61,571,121" href="EA49.htm" target="_self">
+<area shape="rect" coords="346,64,401,118" href="EA54.htm" target="_self">
+<area shape="rect" coords="154,57,258,117" href="EA53.htm" target="_self">
+<area shape="rect" coords="77,69,116,109" href="EA52.htm" target="_self">
+<area shape="rect" coords="30,738,896,900" href="EA45.htm" target="_self">
+<area shape="rect" coords="30,547,896,738" href="EA44.htm" target="_self">
+<area shape="rect" coords="30,383,896,547" href="EA41.htm" target="_self">
+<area shape="rect" coords="30,234,896,383" href="EA42.htm" target="_self">
+<area shape="rect" coords="30,10,896,232" href="EA43.htm" target="_self">
+<area shape="rect" coords="10,10,896,900" href="EA46.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">BPMN 2.0 Business Process View : Business Process diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">26/09/2019 22:24:07</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">15/11/2019 23:31:53</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">ywang</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{9CF86509-E232-4b5c-B4D6-DD903FB2430F}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

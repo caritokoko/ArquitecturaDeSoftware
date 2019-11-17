@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.6:1", "", "Deployment View", "EARoot/EA6/EA145.htm", "179.png", "55", "0", "", "Deployment diagram0","{DC2AC143-3B73-4def-BD70-66405F433E28}");
+tocTab[tocTab.length] = new Array("0.6:2", "", "", "EARoot/EA6/EA148.htm", "6.png", "E250", "0", "", "Actor0","{A3380185-119A-4720-9A29-90ACF95B9719}");
+tocTab[tocTab.length] = new Array("0.6:3", "", "aparato de monitoreo", "EARoot/EA6/EA149.htm", "192.png", "E254", "0", "", "ExecutionEnvironment0","{65044B87-A332-4065-BA36-665403FA31F0}");
+tocTab[tocTab.length] = new Array("0.6:4", "", "aparatos medicos <br />Componente externo", "EARoot/EA6/EA150.htm", "10.png", "E255", "0", "", "Component0","{3D34BCD2-5C28-4a8a-9156-46119645D1A9}");
+tocTab[tocTab.length] = new Array("0.6:5", "", "Aplicación administrativa", "EARoot/EA6/EA151.htm", "21.png", "E251", "0", "", "Activity0","{0790E8BB-B500-4806-99F4-864BA8E75543}");
+tocTab[tocTab.length] = new Array("0.6:6", "", "base de datos<br />", "EARoot/EA6/EA152.htm", "10.png", "E253", "0", "", "Component0","{29ED1266-699B-4c09-AEF1-D3006267E83E}");
+tocTab[tocTab.length] = new Array("0.6:7", "", "«DataStore» BD Blockchain", "EARoot/EA6/EA153.htm", "4C9380A5-0_DataStore.png", "E265", "0", "", "Artifact0","{79F4CCC3-F29C-4540-91F9-2382339121A2}");
+tocTab[tocTab.length] = new Array("0.6:8", "", "integrador<br />", "EARoot/EA6/EA154.htm", "21.png", "E266", "0", "", "Activity0","{3121E531-2F5E-4ef6-9673-31324C54B14B}");
+tocTab[tocTab.length] = new Array("0.6:9", "", "monitor de signos vitales<br />", "EARoot/EA6/EA155.htm", "204.png", "E264", "0", "", "InformationItem0","{A788E258-3A94-46fe-BDC4-6193C73155B0}");
+tocTab[tocTab.length] = new Array("0.6:10", "", "servicio http", "EARoot/EA6/EA156.htm", "10.png", "E256", "0", "", "Component0","{C4FBBD06-F48D-45ac-BDA5-4CCA1C36B18B}");
+tocTab[tocTab.length] = new Array("0.6:11", "", "servidor http", "EARoot/EA6/EA157.htm", "104.png", "E252", "0", "", "Action0","{3144159D-2650-498f-A83F-EC8746211E50}");

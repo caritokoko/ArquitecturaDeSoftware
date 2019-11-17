@@ -1,0 +1,17 @@
+tocTab[tocTab.length] = new Array("0.4:1", "", "Dynamic View", "EARoot/EA4/EA107.htm", "187.png", "67", "0", "", "InteractionOverview diagram0","{53C7C888-AD3F-411f-A41D-189CCC808DE3}");
+tocTab[tocTab.length] = new Array("0.4:2", "", "Activity1", "EARoot/EA4/EA111.htm", "21.png", "E291", "0", "", "Activity0","{36687C82-CC67-419f-8032-3C53E6391CD6}");
+tocTab[tocTab.length] = new Array("0.4:3", "", "«DataStore» BD Blockchain", "EARoot/EA4/EA112.htm", "4C9380A5-0_DataStore.png", "E303", "0", "", "Artifact0","{0511BA46-245E-4670-BB3C-7EE569DC8443}");
+tocTab[tocTab.length] = new Array("0.4:4", "", "«DataStore» BD oracle 11g", "EARoot/EA4/EA113.htm", "4C9380A5-0_DataStore.png", "E300", "0", "", "Artifact0","{891A8E0E-EF0C-4022-9B01-A9345E2F7853}");
+tocTab[tocTab.length] = new Array("0.4:5", "", "Componente externo<br />Aparato Medico", "EARoot/EA4/EA114.htm", "10.png", "E307", "0", "", "Component0","{AC63A20B-0E21-42d5-A56A-463BB95F4375}");
+tocTab[tocTab.length] = new Array("0.4:6", "", "componente externo<br />AparatoMedico", "EARoot/EA4/EA115.htm", "110.png", "E305", "0", "", "ExceptionHandler0","{A42DE5BC-4321-4ed6-B81E-C3D25B94C644}");
+tocTab[tocTab.length] = new Array("0.4:7", "", "EJB", "EARoot/EA4/EA116.htm", "104.png", "E298", "0", "", "Action0","{8CB5F5DE-F1E7-4260-87CF-C74FE82BF9C1}");
+tocTab[tocTab.length] = new Array("0.4:8", "", "http", "EARoot/EA4/EA117.htm", "68.png", "E290", "0", "", "StateNode0","{A2C5A572-D645-4f8c-8F6A-61F55C369D86}");
+tocTab[tocTab.length] = new Array("0.4:9", "", "integrador<br />Microservicio springboot", "EARoot/EA4/EA118.htm", "104.png", "E302", "0", "", "Action0","{0D1ED8D2-6CD3-4efc-BC24-584D96CB3CBB}");
+tocTab[tocTab.length] = new Array("0.4:10", "", "Monitor de signos vitales<br />PowerBI", "EARoot/EA4/EA119.htm", "25.png", "E301", "0", "", "Object0","{17320CD8-38DF-40b4-8AA4-284DE46B5FAE}");
+tocTab[tocTab.length] = new Array("0.4:11", "", "ServicioRest<br />", "EARoot/EA4/EA120.htm", "104.png", "E304", "0", "", "Action0","{408053DE-74B9-4a04-B145-9620A81C7A5A}");
+tocTab[tocTab.length] = new Array("0.4:12", "", "servidor widfly", "EARoot/EA4/EA121.htm", "21.png", "E289", "0", "", "Activity0","{94B6FB4B-7BE6-4236-A308-6483B00124AF}");
+tocTab[tocTab.length] = new Array("0.4:13", "", "servidor widfly", "EARoot/EA4/EA122.htm", "104.png", "E294", "0", "", "Action0","{6334B493-4A5C-4261-AEBC-AB47D884BECD}");
+tocTab[tocTab.length] = new Array("0.4:14", "", "war", "EARoot/EA4/EA124.htm", "104.png", "E297", "0", "", "Action0","{F1FBC0DB-2542-4669-AF9F-A2F5EA716F79}");
+tocTab[tocTab.length] = new Array("0.4:15", "", "ObjectNode1", "EARoot/EA4/EA125.htm", "107.png", "E292", "E289", "", "ObjectNode0","{24B8CA54-2321-4fbb-A7CD-EF8F52379735}");
+tocTab[tocTab.length] = new Array("0.4:16", "", "ObjectNode2", "EARoot/EA4/EA126.htm", "107.png", "E293", "E291", "", "ObjectNode0","{7DEE25E7-439C-4888-BB57-5087D3C68144}");
+tocTab[tocTab.length] = new Array("0.4:17", "", "ObjectNode3", "EARoot/EA4/EA127.htm", "107.png", "E306", "E305", "", "ObjectNode0","{C2204B6F-FC38-4edb-AE4C-90F4A32AAD8D}");

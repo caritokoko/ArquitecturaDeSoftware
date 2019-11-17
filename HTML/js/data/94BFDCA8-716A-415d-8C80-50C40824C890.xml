@@ -1,0 +1,15 @@
+tocTab[tocTab.length] = new Array("0.5:1", "", "Componentes", "EARoot/EA5/EA128.htm", "178.png", "7", "0", "", "Component diagram0","{C4FB77BC-3433-42cd-9F4B-4CE9F22C2662}");
+tocTab[tocTab.length] = new Array("0.5:2", "", "aplicación EAR", "EARoot/EA5/EA131.htm", "10.png", "E158", "0", "", "Component0","{4F3FB105-858A-4acf-885B-CC81EC1497DB}");
+tocTab[tocTab.length] = new Array("0.5:3", "", "base de datos", "EARoot/EA5/EA132.htm", "10.png", "E163", "0", "", "Component0","{B10B8795-E423-4433-B49E-FE2E7133C99B}");
+tocTab[tocTab.length] = new Array("0.5:4", "", "«DataStore» Base de datos", "EARoot/EA5/EA133.htm", "4C9380A5-0_DataStore.png", "E262", "0", "", "Artifact0","{5C430F22-003B-43a0-B3B0-F30489C5F433}");
+tocTab[tocTab.length] = new Array("0.5:5", "", "«DataStore» BD blockchain", "EARoot/EA5/EA134.htm", "4C9380A5-0_DataStore.png", "E263", "0", "", "Artifact0","{50E6ED40-C0A7-4adc-8A76-5959E1E31C97}");
+tocTab[tocTab.length] = new Array("0.5:6", "", "BD Replica Signos vitales", "EARoot/EA5/EA135.htm", "10.png", "E170", "0", "", "Component0","{8684BABF-9606-4093-9410-238B36764000}");
+tocTab[tocTab.length] = new Array("0.5:7", "", "DB  blockchain", "EARoot/EA5/EA136.htm", "10.png", "E164", "0", "", "Component0","{55083263-341A-4a19-B827-2108CF5F1826}");
+tocTab[tocTab.length] = new Array("0.5:8", "", "DB usuarios de sistema", "EARoot/EA5/EA137.htm", "10.png", "E160", "0", "", "Component0","{94AA7BBD-A819-4509-9515-88CEB8F5C99B}");
+tocTab[tocTab.length] = new Array("0.5:9", "", "Equipos de monitoreos de signos vitales", "EARoot/EA5/EA138.htm", "10.png", "E161", "0", "", "Component0","{4DD7C9E7-AC55-48b1-919A-2267AC3A12BD}");
+tocTab[tocTab.length] = new Array("0.5:10", "", "Inicio de sesión", "EARoot/EA5/EA139.htm", "10.png", "E154", "0", "", "Component0","{D42FB434-0F5B-4101-9028-FCB7ABBF9722}");
+tocTab[tocTab.length] = new Array("0.5:11", "", "Integrador", "EARoot/EA5/EA140.htm", "10.png", "E162", "0", "", "Component0","{49E9AF38-D9E6-40cf-B806-0697BB3824C9}");
+tocTab[tocTab.length] = new Array("0.5:12", "", "Integrador blockchain", "EARoot/EA5/EA141.htm", "10.png", "E169", "0", "", "Component0","{05CD65AD-A361-453a-A138-7D150700EA3F}");
+tocTab[tocTab.length] = new Array("0.5:13", "", "Interface1", "EARoot/EA5/EA142.htm", "8.png", "E168", "0", "", "Interface0","{D18E02AB-F7B1-4ff3-BC81-417339715E8D}");
+tocTab[tocTab.length] = new Array("0.5:14", "", "Monitor de Signos vitales", "EARoot/EA5/EA143.htm", "10.png", "E157", "0", "", "Component0","{B7E6CB63-4370-44b3-BEF6-729C67411466}");
+tocTab[tocTab.length] = new Array("0.5:15", "", "Pagina administrativa<br />Aplicacion EAR", "EARoot/EA5/EA144.htm", "10.png", "E155", "0", "", "Component0","{4BA1B24C-616A-4d36-B0C1-F20B5F77912A}");

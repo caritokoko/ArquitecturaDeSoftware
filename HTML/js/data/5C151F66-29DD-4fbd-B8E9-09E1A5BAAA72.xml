@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.7.1.6:1", "", "Tables", "EARoot/EA7/EA1/EA6/EA189.htm", "175.png", "64", "0", "", "Logical diagram0","{A9D59A72-9376-4ee9-91FB-C771BEFC41A6}");
+tocTab[tocTab.length] = new Array("0.7.1.6:2", "", "«table» ALERTA", "EARoot/EA7/EA1/EA6/EA192.htm", "8C9E6706-8_table.png", "E282", "0", "", "Class0","{5F5D1074-3D4C-4930-ADEB-B85CC7BA4153}");
+tocTab[tocTab.length] = new Array("0.7.1.6:3", "", "«table» APARATO_MEDICO", "EARoot/EA7/EA1/EA6/EA193.htm", "8C9E6706-8_table.png", "E284", "0", "", "Class0","{B7EA1271-4AB2-4d0f-B4BF-9E4FEA51B897}");
+tocTab[tocTab.length] = new Array("0.7.1.6:4", "", "«table» CONTROL", "EARoot/EA7/EA1/EA6/EA194.htm", "8C9E6706-8_table.png", "E283", "0", "", "Class0","{81E2FC11-01C1-4046-9552-767DAEE6A937}");
+tocTab[tocTab.length] = new Array("0.7.1.6:5", "", "«table» DETALLE_CONTROL", "EARoot/EA7/EA1/EA6/EA195.htm", "8C9E6706-8_table.png", "E280", "0", "", "Class0","{144DC9E5-4B97-4f0f-B126-8F38CE074C4A}");
+tocTab[tocTab.length] = new Array("0.7.1.6:6", "", "«table» FUNCIONARIO", "EARoot/EA7/EA1/EA6/EA196.htm", "8C9E6706-8_table.png", "E281", "0", "", "Class0","{21C94759-54FE-4cc6-AE8D-A002D010D7D2}");
+tocTab[tocTab.length] = new Array("0.7.1.6:7", "", "«table» PACIENTE", "EARoot/EA7/EA1/EA6/EA197.htm", "8C9E6706-8_table.png", "E286", "0", "", "Class0","{E615433F-B8EB-4db3-A385-3670B3699692}");
+tocTab[tocTab.length] = new Array("0.7.1.6:8", "", "«table» USUARIO", "EARoot/EA7/EA1/EA6/EA198.htm", "8C9E6706-8_table.png", "E285", "0", "", "Class0","{C826A0BB-E13A-4bbd-BBE3-C73AB94AB2F3}");
